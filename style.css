@@ -725,7 +725,7 @@ nav {
     margin-bottom: 79px;
   }
   .save__storage {
-    font-size: 50px;
+    font-size: 40px;
   }
   .data__warehouse {
     font-size: 14px;
@@ -996,7 +996,7 @@ nav {
 }
 
 /* Height */
-@media (min-height: 1000px) {
+@media (max-height: 800px) {
   .menu__body {
     flex-direction: row;
   }
