@@ -1018,4 +1018,7 @@ nav {
   .media__photo {
     width: 50%;
   }
+  .features__content {
+    margin-right: 100px;
+  }
 }
